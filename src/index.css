@@ -1,0 +1,10 @@
+i
+{
+    position: relative;
+}
+#count
+{
+    position: absolute;
+    top: 0;
+    right: 100;
+}
